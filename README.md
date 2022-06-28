@@ -1,5 +1,5 @@
 # Olá 👋, I'm Yuri Marinho!
-Here's the journey of a NoCoder learning something about code!
+Here's the journey of a NoCoder learning something about code
 
 
 ## Traveling through...
