@@ -16,4 +16,4 @@ Here's the journey of a NoCoder learning something about code
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurimarinho)
   <a href = "mailto:ymarinho98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-# Projects soon!
+# Projects in the repository!
