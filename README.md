@@ -2,7 +2,7 @@
 Here's the journey of a NoCoder learning something about code
 
 
-## Traveling through...
+# Traveling through...
 📗 Chapter One: [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 📕 Chapter Two: [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
@@ -11,7 +11,7 @@ Here's the journey of a NoCoder learning something about code
 
 📚 And more to come...
 
-## 🔗 Links
+# 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://biyo.page/p/yuri)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurimarinho)
   <a href = "mailto:ymarinho98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
